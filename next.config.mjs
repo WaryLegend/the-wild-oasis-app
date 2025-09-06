@@ -23,7 +23,7 @@ const nextConfig = {
       // cache dynamic routes for 30s (default for nextjs v15 is 0s)
       dynamic: 30,
       // cache static routes for default 300s (5 min)
-      static: 300,
+      static: 600,
     },
   },
 
