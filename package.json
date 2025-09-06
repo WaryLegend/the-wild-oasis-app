@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
-    "@supabase/supabase-js": "^2.56.0",
+    "@supabase/supabase-js": "^2.57.2",
     "date-fns": "^4.1.0",
     "next": "15.5.0",
     "next-auth": "^5.0.0-beta.29",
